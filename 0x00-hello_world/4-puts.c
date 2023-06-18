@@ -2,7 +2,7 @@
 /**
  * main - a program to printout some words
  *
- * Return - Always return 0 when successful
+ * Return: Always return 0
  */
 int main(void)
 {
